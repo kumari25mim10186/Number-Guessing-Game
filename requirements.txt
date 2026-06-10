@@ -1,0 +1,30 @@
+# Number Guessing Game Requirements
+
+# Programming Language
+
+Python >= 3.8
+
+# Standard Library Modules Used
+
+random
+
+# Development Environment (Optional)
+
+PyCharm Community Edition
+Visual Studio Code
+
+# Version Control (Optional)
+
+Git >= 2.0
+
+# Operating System Support
+
+Windows 10/11
+Linux
+macOS
+
+# Note:
+
+# This project uses only Python's built-in libraries.
+
+# No external packages need to be installed.
